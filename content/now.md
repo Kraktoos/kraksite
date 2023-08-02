@@ -7,7 +7,7 @@ menu = "main"
 
 ## Working with
 
-- Next.js, React, TypeScript, TailwindCSS
+- Next.js, React, TypeScript, TailwindCSS and good old cPanel
 
 ## Learning
 
